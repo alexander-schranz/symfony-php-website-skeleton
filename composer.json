@@ -1,5 +1,5 @@
 {
-    "name": "schranz/symfony-php-website-skeleton",
+    "name": "schranz-php-recipes/symfony-php-website-skeleton",
     "type": "project",
     "license": "MIT",
     "description": "A skeleton to start a new Symfony website using PHP instead of Yaml config files.",
@@ -70,8 +70,8 @@
             "allow-contrib": false,
             "require": "6.1.*",
             "endpoint": [
-                "https://raw.githubusercontent.com/alexander-schranz/symfony-recipes-php/flex/main/index.json",
-                "https://raw.githubusercontent.com/alexander-schranz/symfony-recipes-php-contrib/flex/main/index.json",
+                "https://raw.githubusercontent.com/schranz-php-recipes/symfony-recipes-php/flex/main/index.json",
+                "https://raw.githubusercontent.com/schranz-php-recipes/symfony-recipes-php-contrib/flex/main/index.json",
                 "flex://defaults"
             ]
         }
